@@ -1,0 +1,18 @@
+---
+title: "Assignment 2"
+author: "Sam Eckhardt"
+date: "Saturday, December 13, 2014"
+output: html_document
+---
+
+##Graph Design Article Summary
+  
+  In John Boyd's notes, How to Graph Badly or What NOT to Do, and The Gospel According to Tufte, the author goes through several of things that can make it difficult to read and understand the data a graph is doing. He starts in Chapter One by explaining how one can mess up a graph, which I feel is a better representation of how to graph correctly instead of outright teaching us that. Boyd goes through many different styles of graphs, showing how simple things can make it so much harder to understand data. 
+	
+  His basis for this is Edward Tufte's theories, which he goes over extensively in Chapter Two after summarizing how to mess them up in Chapter One. He starts with what he calls Chartjunk, or just a bunch of different things that make charts pretty, but ruins them. These include fonts, Moire shading, Pseudo 3-D, artificial color, and hype.  Fonts can be hard to read, too many types of shading can confuse things, pseudo 3-D makes things seem bigger or smaller than they actually are, color is powerful, but easily misused, and hyping up your data with overrepresentation or generalization can make people misinterpret your data easily. 
+	
+  Both of Boyd's chapter notes then go into more details on how one can make bad graphs, without using chart junk. This includes high data density, Data-Hiding, inconsistent visual metaphor, context free data, area instead of length as a visual metaphor, bad labeling, emphasizing the unimportant, and unnecessary graphic novelty. Both chapters take the time to explain how each of these mechanics of graph design are important to graph design, and how they can improve your graphs, and then show how they can make them worse and how to not do so. 
+	
+  Boyd's Chapter 2 notes then takes a good example of each of these, and more, and shows how to improve these graphs with simplification or other topics. Revision, lowering data density, symmetry, or even removing the graph entirely can improve on how a person images the data and interprets it. He goes on to show how simple things can improve graphs, such as word labels, multiuse graphs, collapsing dimensions, and more. 
+	
+  Both of these chapters go into depth about how to not only improve graphs, but how to make the best graphs possible. Simplification, transparency, and clarity are super important for every person who is going to try and make graphs, and these notes show how important those things are with tons of examples and references. 

@@ -1,0 +1,18 @@
+---
+title: "Assignment 1"
+author: "Sam Eckhardt"
+date: "Saturday, December 13, 2014"
+output: html_document
+---
+
+##Assignment 1
+
+Human perception is a very important factor in any business setting. How people picture your business, and business model, is very important to how sales are made, and how profits are earned. For example, McDonalds, in America, is viewed as a cheap, fast meal with little or no real nutritional value. Nevertheless, McDonalds is where you go when your kids are yelling at you for food. In many other countries, McDonalds is a very fancy restaurant; it is a high end place in areas such as China, Vietnam, and New Zealand. 
+
+Perception of data is another point of human perception that can influence how people view certain things. More importantly, misinterpretation of data can be negative for your organization or company. Therefore, it is important that people who are presenting data know how to present it in a way that is both easy to understand and visualize. For example, it is much easier for people to see and understand a line chart showing growth, compared to just a dataset. But, less obviously, it is easier to see which part of your cost structure is the largest in a bar graph instead of a pie graph. So while putting your information into graph form may make it easier to understand, it still may not get the desired message across. 
+
+So how can one benefit from how people perceive things to maximize understanding? The people at FusionCharts, in their paper "Principles of Data Visualization - What We See in a Visual" and Christopher G. Healey, in his paper "Perception in Visualization" give several perception theories that can help. The first is preattentive perception attributes. These are eleven different attributes for any visual situation that we can perceive in less than a tenth of a second. These include orientation, line length, line width, size, shape, curvature, added marks, enclosure, intensity, hue, and spatial position. These attributes can help us in graphical data to focus on the information we want people to focus on. 
+
+For example, say one has a bar chart. We can use line length to emphasize which one has the largest share. Secondly, if the bars are of similar length, we can use hue or intensity in the colors to focus attention onto one of the bars. In another example, with a scatterplot, we can use position to focus on the outliers for a data set, or use shape to emphasize a particular point in a set. 
+
+Both papers stress the importance of this perception theory, and move onto other theories that can help with perception. FusionCharts go on and use Gestalt Principles to figure out how our mind perceives these patterns, while Healey goes on and describes several more principles that one can use, in preattentive perception, such as texton theory, similarity theory, guided search theory, and Boolean map theory. All of these theories look at how the mind orders this information and differentiates the outliers from the pattern, using the Gestalt Principles. Both papers conclude that humans are hardwired to visualize information in specific ways, and if one can utilize that way to transfer data, they will be able to better transfer the data they wish to transfer. 
